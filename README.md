@@ -75,3 +75,13 @@ whatstest-ai/
 ```bash
 pip install streamlit pandas pytest
 ```
+### Executar testes
+
+```bash
+python main.py
+```
+### Executar testes
+
+```bash
+python -m streamlit run dashboard.py
+```
