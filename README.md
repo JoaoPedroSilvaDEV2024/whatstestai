@@ -91,3 +91,4 @@ O dashboard exibe:
 - Taxa de sucesso (PASS/FAIL)
 - Lista detalhada de execuções
 - Análise de respostas do agente
+---
