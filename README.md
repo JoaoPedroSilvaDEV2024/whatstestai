@@ -114,3 +114,12 @@ O dashboard exibe:
 - CI/CD com GitHub Actions
 - Simulação de múltiplos usuários
 - Deploy em nuvem
+---
+---
+
+## 👨‍💻 Autor
+Projeto desenvolvido com foco em:
+- QA Automation
+- IA conversacional
+- Testes de sistemas inteligentes
+---
