@@ -85,3 +85,9 @@ python main.py
 ```bash
 python -m streamlit run dashboard.py
 ```
+## 📊 Dashboard de QA
+O dashboard exibe:
+- Total de testes executados
+- Taxa de sucesso (PASS/FAIL)
+- Lista detalhada de execuções
+- Análise de respostas do agente
