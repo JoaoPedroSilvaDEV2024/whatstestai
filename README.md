@@ -92,3 +92,25 @@ O dashboard exibe:
 - Lista detalhada de execuções
 - Análise de respostas do agente
 ---
+
+## 🧪 Exemplo de Teste
+
+```bash
+{
+    "input": "qual o preço?",
+    "expected": "Nosso plano custa R$ 49,90"
+}
+```
+## 📌 Resultados Esperados
+- Detecção de falhas em respostas de IA
+- Validação de fluxos de conversa
+- Visibilidade da qualidade do sistema
+- Redução de erros antes de produção
+---
+
+## 💡 Melhorias Futuras
+- Integração com OpenAI API
+- Testes de carga (Locust/k6)
+- CI/CD com GitHub Actions
+- Simulação de múltiplos usuários
+- Deploy em nuvem
