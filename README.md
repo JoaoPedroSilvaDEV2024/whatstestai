@@ -65,3 +65,13 @@ whatstest-ai/
 ├── dashboard.py
 └── main.py
 ```
+
+---
+
+## ▶️ Como Rodar
+
+### Instalar dependências
+
+```bash
+pip install streamlit pandas pytest
+```
