@@ -1,0 +1,20 @@
+[
+  {
+    "input": "oi",
+    "expected": "Olá! Como posso te ajudar?",
+    "actual": "Olá! Como posso te ajudar?",
+    "status": "PASS"
+  },
+  {
+    "input": "preço",
+    "expected": "Nosso plano custa R$ 49,90",
+    "actual": "Nosso plano custa R$ 49,90",
+    "status": "PASS"
+  },
+  {
+    "input": "suporte",
+    "expected": "Vou te ajudar com isso",
+    "actual": "Não entendi, pode reformular?",
+    "status": "FAIL"
+  }
+]
