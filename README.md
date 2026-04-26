@@ -46,4 +46,22 @@ Garantir que agentes de IA:
 
 ---
 
-## 📁 Estrutura do Projeto
+## 📦 Estrutura do projeto
+
+```
+whatstest-ai/
+│
+├── app/
+│ ├── agent.py
+│ ├── simulator.py
+│ ├── validator.py
+│ ├── scenarios.py
+│ ├── logger.py
+│ └── results.json
+│
+├── tests/
+│ └── test_flows.py
+│
+├── dashboard.py
+└── main.py
+```
